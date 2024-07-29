@@ -1,0 +1,12 @@
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\bin\Debug\net48\SAGPoliceUtilities.dll
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\bin\Debug\net48\SAGPoliceUtilities.pdb
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\bin\Debug\net48\LiteDB.dll
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\bin\Debug\net48\System.Buffers.dll
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.csproj.AssemblyReference.cache
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.AssemblyInfoInputs.cache
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.AssemblyInfo.cs
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.csproj.CoreCompileInputs.cache
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPolic.7D3DA6F7.Up2Date
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.dll
+C:\Users\eliis\source\repos\SAGPoliceUtilities\SAGPoliceUtilities\obj\Debug\net48\SAGPoliceUtilities.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPnCo3cAL5I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eliis\\source\\repos\\SAGPoliceUtilities\\src\\SAGPoliceUtilities\\SAGPoliceUtilities\\SAGPoliceUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliis\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\eliis\\.nuget\\packages\\restoremonarchy.rocketredist\\3.24.4\\restoremonarchy.rocketredist.3.24.4.nupkg.sha512",
+    "C:\\Users\\eliis\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.24.4\\restoremonarchy.unturnedredist.3.24.4.nupkg.sha512",
+    "C:\\Users\\eliis\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
